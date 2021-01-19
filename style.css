@@ -1,0 +1,8 @@
+body {
+    background: #3e4144;
+}
+.container {
+
+ max-width: 375px !important;
+ background: white;
+}
